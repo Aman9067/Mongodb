@@ -7,5 +7,7 @@ const server= http.createServer((res, req )=>
     res.end("hello how are yuhhhhh")            
 
 } )
-server.listen(3000)
-console.log("added succesfully");
+server.listen(3000,()=>
+{
+    console.log("added succesfully");
+})
