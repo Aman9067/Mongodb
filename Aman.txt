@@ -1,4 +1,1 @@
-
-mongodb+srv://guptaaman9067:6tvEcUo21N9n01kE@cluster0.5mb1h.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-hlo worldfile update successfully
+hlo world 

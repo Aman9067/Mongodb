@@ -2,7 +2,6 @@ const { MongoClient } = require("mongodb");
 
 const url = "mongodb+srv://guptaaman9067:6tvEcUo21N9n01kE@cluster0.5mb1h.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 const client = new MongoClient(url);
-
 const dbName = "user";
 
 async function main() {
